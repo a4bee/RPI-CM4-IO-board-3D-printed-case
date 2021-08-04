@@ -6,13 +6,13 @@ Case is easy to assembly due to special clips on bottom part. You just have to c
 
 ## Model preview
 Model in Fusion
-![model1](res/model1)
-![model2](res/model2)
-![model3](res/model3)
+![model1](res/model1.png)
+![model2](res/model2.png)
+![model3](res/model3.png)
 
 Printed case
-![real](res/real)
-![real](res/real2)
+![real](res/real.png)
+![real](res/real2.png)
 
 ## Recommended printer settings
 - Layer height: 0.40mm
