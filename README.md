@@ -11,8 +11,8 @@ Model in Fusion
 ![model3](res/model3.png)
 
 Printed case
-![real](res/real.png)
-![real](res/real2.png)
+![real](res/real.jpg)
+![real](res/real2.jpg)
 
 ## Recommended printer settings
 - Layer height: 0.40mm
